@@ -6,13 +6,14 @@
 
 ## Requirements
 
--Radio with display, running OpenTX 2.0.0 or newer
+- Radio with display, running OpenTX 2.0.0 or newer
 
 ## Installation
 
-[Download](https://github.com/SauerkrautKebap/OpenTX-Pong/releases) the Pong.lua file or clone the repo and put it on the radios SD card under /SCRIPTS/.
+1. [Download](https://github.com/SauerkrautKebap/OpenTX-Pong/releases) the Pong.lua file or clone the repo
+2. Put the Pong.lua file on the radios SD card under /SCRIPTS/.
 
 ## Usage
 
--Execute the Lua file on the radio
--Throttle controls the left paddle, elevators the right
+- Execute the Lua file on the radio
+- Throttle controls the left paddle, elevators the right
